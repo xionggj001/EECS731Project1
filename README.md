@@ -1,7 +1,7 @@
 # EECS731Project1
 Practice for Pandas and Jupyter Notebook
 
-In this project, we analysis the Bike sharing demand data sets from kaggle（https://www.kaggle.com/c/bike-sharing-demand/data）which contains the bike sharing demand for one city in 2011 and 2012. 
+In this project, we analysis the Bike sharing demand data sets from kaggle（https://www.kaggle.com/c/bike-sharing-demand/data） which contains the bike sharing demand for one city in 2011 and 2012. 
 
 
 There are two data sets in this project:
