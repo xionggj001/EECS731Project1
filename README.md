@@ -15,7 +15,7 @@ There are two data sets in this project:
 We use pandas to analysie what factors might affect the demand of sharing bikes.
 
 
-This project contains data processing and data analysis.
+# This project contains data processing and data analysis.
 
 Data processing includes loading data sets into pandas, clean the data, check the data info, merge different data sets, and data analysis includes data exploitation and visualization.  
 
